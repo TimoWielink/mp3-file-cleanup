@@ -6,9 +6,9 @@ This script allows you to remove specified target strings from the beginning and
 
 To use this script, follow these steps:
 
-1. Save the script to a file with a `.py` extension, for example `mp3_cleanup.py`.
+1. Save the script to a file with a `.py` extension, for example `mp3-cleanup.py`.
 2. Open a terminal window and navigate to the directory where the script is located.
-3. Run the script using the Python interpreter: `python mp3_cleanup.py`
+3. Run the script using the Python interpreter: `python mp3-cleanup.py`
 4. When prompted, enter the target string to remove from the beginning of the filenames.
 5. When prompted, enter the target string to remove from the end of the filenames.
 
